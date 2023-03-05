@@ -69,7 +69,8 @@ var alunos = [
   }
 ];
 
-var alunosLista2 = [
+var alunosLista2 = 
+[
   {
     'BT301685X' : {
       'Nome' : 'Leila',
